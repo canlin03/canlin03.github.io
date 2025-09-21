@@ -10,8 +10,8 @@ Email: can.lin[at]mail.ustc.edu.cn
 
 #### Education
 
-M.E., University of Science and Technology of China, 2024—Now.\
-B.E., University of Electronic Science and Technology of China, 2020—2024.
+M.E., Computer Science and Technology, University of Science and Technology of China, 2024—Now.\
+B.E., Computer Science and Technology & Finance, University of Electronic Science and Technology of China, 2020—2024.
 
 #### Research Interests
 Large Language Model, Knowledge Graph.
