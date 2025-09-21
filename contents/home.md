@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![canlin03](https://img.shields.io/badge/canlin03-github-blue?logo=github)](https://github.com/canlin03)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am currently pursuing my Master’s degree at the University of Science and Technology of China. I received my Bachelor’s degree from the University of Electronic Science and Technology of China. My research interests lie in natural language processing, large language models, knowledge graphs, and intelligent agents. Driven by the desire to create meaningful and practical works, I am dedicated to advancing research in artificial intelligence.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: can.lin[at]mail.ustc.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+M.E., University of Science and Technology of China, 2024—Now.\
+B.E., University of Electronic Science and Technology of China, 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Large Language Model, Knowledge Graph.
 

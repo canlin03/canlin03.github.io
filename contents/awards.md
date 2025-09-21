@@ -1,16 +1,8 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 2024 Outstanding Graduates of Sichuan Province, Education Department of Sichuan.
 
-- National Scholarship for Graduate Student, 2024.
+- 2023 China National Scholarship (top 1.5%), Ministry of Education of the People's Republic of China.
 
-- First-Prize Scholarship (CUMT), 2024.
+- 2023 First Prize (Programming) Lan Qiao Cup (Ranked 10th).
 
-- First-Prize Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+- 2022 Shenzhen Stock Exchange Scholarship.
